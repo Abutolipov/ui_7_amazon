@@ -84,7 +84,7 @@ class _HomePageState extends State<HomePage> {
               child: ListView(
                 children: [
                   Container(
-                    padding: EdgeInsets.only(left: 10,right: 10),
+                    padding: EdgeInsets.only(left: 11,right: 10),
                     color: Colors.blueGrey,
                     height: 45,
                     child: Row(
